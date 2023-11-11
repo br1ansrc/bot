@@ -1,0 +1,4 @@
+#include "typedef.h"
+
+ID_MODULE32 RCDATA "module32.dll"
+ID_MODULE64 RCDATA "module64.dll"
